@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "roshan ",
+      "details": "roshan is the best wev developer",
+      "category": "reminder",
+      "id": 1
+    },
+    {
+      "title": "Sandhya",
+      "details": "she is the best girl in the world",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "kiran",
+      "details": "she is the best dancer ",
+      "category": "todos",
+      "id": 3
+    }
+  ]
+}

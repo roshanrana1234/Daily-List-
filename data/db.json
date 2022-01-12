@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "roshan ",
+      "details": "roshan is the best wev developer",
+      "category": "reminder",
+      "id": 1
+    },
+    {
+      "title": "Priytam",
+      "details": " He is a Software developer",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Sankar",
+      "details": "He is the best dancer ",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "kjhjkh",
+      "details": "kj",
+      "category": "Reminder",
+      "id": 4
+    }
+  ]
+}
